@@ -1,1 +1,3 @@
 moje readme
+
+zmiana pierwsza
